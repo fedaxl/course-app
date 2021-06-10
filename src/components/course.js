@@ -22,4 +22,4 @@ const Course = (props) => {
   )
 }
 
-export default Course
+export default Course;

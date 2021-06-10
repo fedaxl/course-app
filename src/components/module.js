@@ -10,4 +10,4 @@ const Module = (props) => {
   )
 }
 
-export default Module
+export default Module;
